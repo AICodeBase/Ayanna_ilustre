@@ -359,6 +359,12 @@ image-rendering: optimizeQuality;
   margin-right: 0;
 }
 
+.img{
+height: 300px;
+width: 400px;
+image-rendering: optimizeQuality;
+}
+
 .text-center {
   text-align: center;
 }
