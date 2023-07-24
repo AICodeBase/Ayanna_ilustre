@@ -365,6 +365,14 @@ width: 400px;
 image-rendering: optimizeQuality;
 }
 
+.Vid{
+height: 500px;
+width: 300px;
+border: 2px solid black;
+padding: 5px;
+border-radius: 15px;
+}
+
 .text-center {
   text-align: center;
 }
